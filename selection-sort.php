@@ -18,7 +18,7 @@ function selectionSort($arr) {
             $arr[$min] = $temp;
         }
     }
-    // Return the sorted array
+    
     return $arr;
 }
 
